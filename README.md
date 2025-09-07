@@ -2,11 +2,8 @@
 
 ### About Me
 
-- Hi there!, I'm Guruprasath B
-- Currently doing MBA - Finance and Business Analytics at School of Management, SASTRA Deemed to University.
-
-### Projects
-
+- Hello there!, I'm Guruprasath B
+- a Management Trainee at TCS with an MBA from SASTRA University, focused on Business Analytics and passionate about driving data-driven decision making.
 -  Explore my projects at [Repositories](https://github.com/Guruprasath0B?tab=repositories)
 -  Reach me at: guruprasathgp1502@gmail.com
 
